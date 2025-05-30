@@ -1,0 +1,12 @@
+name: dose_masters
+channels:
+ - conda-forge
+dependencies:
+ - python=3.13
+ - streamlit
+ - pydicom
+ - seaborn
+ - matplotlib
+ - scikit-image
+ - shapely
+ - ipykernel
